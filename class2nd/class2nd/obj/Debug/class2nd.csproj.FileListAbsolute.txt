@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\class2nd\class2nd\obj\Debug\class2nd.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\class2nd\class2nd\obj\Debug\class2nd.Form1.resources
+C:\Users\Teacher\source\repos\class2nd\class2nd\obj\Debug\class2nd.Properties.Resources.resources
+C:\Users\Teacher\source\repos\class2nd\class2nd\obj\Debug\class2nd.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\class2nd\class2nd\obj\Debug\class2nd.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\class2nd\class2nd\bin\Debug\class2nd.exe.config
+C:\Users\Teacher\source\repos\class2nd\class2nd\bin\Debug\class2nd.exe
+C:\Users\Teacher\source\repos\class2nd\class2nd\bin\Debug\class2nd.pdb
+C:\Users\Teacher\source\repos\class2nd\class2nd\obj\Debug\class2nd.exe
+C:\Users\Teacher\source\repos\class2nd\class2nd\obj\Debug\class2nd.pdb
+C:\Users\Teacher\source\repos\class2nd\class2nd\obj\Debug\class2nd.exe.config
