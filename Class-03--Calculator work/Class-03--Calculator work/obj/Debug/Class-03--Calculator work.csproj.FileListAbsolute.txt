@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\Class-03--Calculator work\Class-03--Calculator work\bin\Debug\Class-03--Calculator work.exe.config
+C:\Users\Teacher\source\repos\Class-03--Calculator work\Class-03--Calculator work\bin\Debug\Class-03--Calculator work.exe
+C:\Users\Teacher\source\repos\Class-03--Calculator work\Class-03--Calculator work\bin\Debug\Class-03--Calculator work.pdb
+C:\Users\Teacher\source\repos\Class-03--Calculator work\Class-03--Calculator work\obj\Debug\Class-03--Calculator work.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\Class-03--Calculator work\Class-03--Calculator work\obj\Debug\Class_03__Calculator_work.Form1.resources
+C:\Users\Teacher\source\repos\Class-03--Calculator work\Class-03--Calculator work\obj\Debug\Class_03__Calculator_work.Form2.resources
+C:\Users\Teacher\source\repos\Class-03--Calculator work\Class-03--Calculator work\obj\Debug\Class_03__Calculator_work.Properties.Resources.resources
+C:\Users\Teacher\source\repos\Class-03--Calculator work\Class-03--Calculator work\obj\Debug\Class-03--Calculator work.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\Class-03--Calculator work\Class-03--Calculator work\obj\Debug\Class-03--Calculator work.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\Class-03--Calculator work\Class-03--Calculator work\obj\Debug\Class-03--Calculator work.exe
+C:\Users\Teacher\source\repos\Class-03--Calculator work\Class-03--Calculator work\obj\Debug\Class-03--Calculator work.pdb
