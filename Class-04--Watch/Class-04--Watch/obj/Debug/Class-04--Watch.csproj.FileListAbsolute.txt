@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\Class-04--Watch\Class-04--Watch\obj\Debug\Class-04--Watch.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\Class-04--Watch\Class-04--Watch\obj\Debug\Class_04__Watch.Form1.resources
+C:\Users\Teacher\source\repos\Class-04--Watch\Class-04--Watch\obj\Debug\Class_04__Watch.Properties.Resources.resources
+C:\Users\Teacher\source\repos\Class-04--Watch\Class-04--Watch\obj\Debug\Class-04--Watch.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\Class-04--Watch\Class-04--Watch\obj\Debug\Class-04--Watch.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\Class-04--Watch\Class-04--Watch\bin\Debug\Class-04--Watch.exe.config
+C:\Users\Teacher\source\repos\Class-04--Watch\Class-04--Watch\bin\Debug\Class-04--Watch.exe
+C:\Users\Teacher\source\repos\Class-04--Watch\Class-04--Watch\bin\Debug\Class-04--Watch.pdb
+C:\Users\Teacher\source\repos\Class-04--Watch\Class-04--Watch\obj\Debug\Class-04--Watch.exe
+C:\Users\Teacher\source\repos\Class-04--Watch\Class-04--Watch\obj\Debug\Class-04--Watch.pdb
+C:\Users\Teacher\source\repos\Class-04--Watch\Class-04--Watch\obj\Debug\Class-04--Watch.exe.config
