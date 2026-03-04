@@ -1,0 +1,7 @@
+C:\Users\Teacher\source\repos\Class-08--encapsulation\Class-08--encapsulation\bin\Debug\Class-08--encapsulation.exe.config
+C:\Users\Teacher\source\repos\Class-08--encapsulation\Class-08--encapsulation\bin\Debug\Class-08--encapsulation.exe
+C:\Users\Teacher\source\repos\Class-08--encapsulation\Class-08--encapsulation\bin\Debug\Class-08--encapsulation.pdb
+C:\Users\Teacher\source\repos\Class-08--encapsulation\Class-08--encapsulation\obj\Debug\Class-08--encapsulation.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\Class-08--encapsulation\Class-08--encapsulation\obj\Debug\Class-08--encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\Class-08--encapsulation\Class-08--encapsulation\obj\Debug\Class-08--encapsulation.exe
+C:\Users\Teacher\source\repos\Class-08--encapsulation\Class-08--encapsulation\obj\Debug\Class-08--encapsulation.pdb

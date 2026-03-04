@@ -1,0 +1,7 @@
+C:\Users\Teacher\source\repos\Class-08--Inheritance\Class-08--Inheritance\bin\Debug\Class-08--Inheritance.exe.config
+C:\Users\Teacher\source\repos\Class-08--Inheritance\Class-08--Inheritance\bin\Debug\Class-08--Inheritance.exe
+C:\Users\Teacher\source\repos\Class-08--Inheritance\Class-08--Inheritance\bin\Debug\Class-08--Inheritance.pdb
+C:\Users\Teacher\source\repos\Class-08--Inheritance\Class-08--Inheritance\obj\Debug\Class-08--Inheritance.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\Class-08--Inheritance\Class-08--Inheritance\obj\Debug\Class-08--Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\Class-08--Inheritance\Class-08--Inheritance\obj\Debug\Class-08--Inheritance.exe
+C:\Users\Teacher\source\repos\Class-08--Inheritance\Class-08--Inheritance\obj\Debug\Class-08--Inheritance.pdb

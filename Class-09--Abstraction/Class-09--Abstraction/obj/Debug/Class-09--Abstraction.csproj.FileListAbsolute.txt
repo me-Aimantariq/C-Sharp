@@ -1,0 +1,7 @@
+C:\Users\Teacher\source\repos\Class-09--Abstraction\Class-09--Abstraction\bin\Debug\Class-09--Abstraction.exe.config
+C:\Users\Teacher\source\repos\Class-09--Abstraction\Class-09--Abstraction\bin\Debug\Class-09--Abstraction.exe
+C:\Users\Teacher\source\repos\Class-09--Abstraction\Class-09--Abstraction\bin\Debug\Class-09--Abstraction.pdb
+C:\Users\Teacher\source\repos\Class-09--Abstraction\Class-09--Abstraction\obj\Debug\Class-09--Abstraction.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\Class-09--Abstraction\Class-09--Abstraction\obj\Debug\Class-09--Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\Class-09--Abstraction\Class-09--Abstraction\obj\Debug\Class-09--Abstraction.exe
+C:\Users\Teacher\source\repos\Class-09--Abstraction\Class-09--Abstraction\obj\Debug\Class-09--Abstraction.pdb
