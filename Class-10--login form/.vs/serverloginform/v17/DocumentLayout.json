@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teacher\\source\\repos\\serverloginform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DACBB8-D043-442D-907A-93DA9F496C8E}|serverloginform\\serverloginform.csproj|c:\\users\\teacher\\source\\repos\\serverloginform\\serverloginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0DACBB8-D043-442D-907A-93DA9F496C8E}|serverloginform\\serverloginform.csproj|solutionrelative:serverloginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DACBB8-D043-442D-907A-93DA9F496C8E}|serverloginform\\serverloginform.csproj|C:\\Users\\Teacher\\source\\repos\\serverloginform\\serverloginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0DACBB8-D043-442D-907A-93DA9F496C8E}|serverloginform\\serverloginform.csproj|solutionrelative:serverloginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\source\\repos\\serverloginform\\serverloginform\\Form1.cs",
+              "RelativeDocumentMoniker": "serverloginform\\Form1.cs",
+              "ToolTip": "C:\\Users\\Teacher\\source\\repos\\serverloginform\\serverloginform\\Form1.cs",
+              "RelativeToolTip": "serverloginform\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:48:01.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Teacher\\source\\repos\\serverloginform\\serverloginform\\Form1.cs",
+              "RelativeDocumentMoniker": "serverloginform\\Form1.cs",
+              "ToolTip": "C:\\Users\\Teacher\\source\\repos\\serverloginform\\serverloginform\\Form1.cs [Design]",
+              "RelativeToolTip": "serverloginform\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:35:20.44Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\Teacher\source\repos\serverloginform\serverloginform\bin\Debug\serverloginform.exe.config
+C:\Users\Teacher\source\repos\serverloginform\serverloginform\bin\Debug\serverloginform.exe
+C:\Users\Teacher\source\repos\serverloginform\serverloginform\bin\Debug\serverloginform.pdb
+C:\Users\Teacher\source\repos\serverloginform\serverloginform\obj\Debug\serverloginform.csproj.AssemblyReference.cache
+C:\Users\Teacher\source\repos\serverloginform\serverloginform\obj\Debug\serverloginform.Form1.resources
+C:\Users\Teacher\source\repos\serverloginform\serverloginform\obj\Debug\serverloginform.Properties.Resources.resources
+C:\Users\Teacher\source\repos\serverloginform\serverloginform\obj\Debug\serverloginform.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\serverloginform\serverloginform\obj\Debug\serverloginform.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\serverloginform\serverloginform\obj\Debug\serverloginform.exe
+C:\Users\Teacher\source\repos\serverloginform\serverloginform\obj\Debug\serverloginform.pdb
+C:\Users\Teacher\source\repos\serverloginform\serverloginform\obj\Debug\serverloginform.exe.config
